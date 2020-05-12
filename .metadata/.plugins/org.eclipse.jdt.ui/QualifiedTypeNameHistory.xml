@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.restassured.http.Method"/>
+<fullyQualifiedTypeName name="io.restassured.response.Validatable"/>
+<fullyQualifiedTypeName name="io.restassured.response.ValidatableResponse"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.hamcrest.core.IsNot"/>
+<fullyQualifiedTypeName name="io.restassured.response.Response"/>
+<fullyQualifiedTypeName name="groovy.json.JsonBuilder"/>
+<fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="io.restassured.response.ExtractableResponse"/>
+<fullyQualifiedTypeName name="com.sun.tools.xjc.reader.xmlschema.bindinfo.BIConversion.User"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="io.restassured.internal.path.xml.NodeImpl"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
+<fullyQualifiedTypeName name="io.restassured.filter.log.LogDetail"/>
+<fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
+<fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
+<fullyQualifiedTypeName name="io.restassured.specification.RequestSpecification"/>
+<fullyQualifiedTypeName name="javafx.beans.binding.When"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="br.com.jefffreitas.rest.User"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IUSHR"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessType"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAttribute"/>
+<fullyQualifiedTypeName name="org.hamcrest.Matcher"/>
+<fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
+<fullyQualifiedTypeName name="org.hamcrest.xml.HasXPath"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="io.restassured.matcher.RestAssuredMatchers"/>
+<fullyQualifiedTypeName name="jdk.internal.org.xml.sax.SAXParseException"/>
+<fullyQualifiedTypeName name="io.restassured.module.jsv.JsonSchemaValidator"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+<fullyQualifiedTypeName name="org.hamcrest.core.Is"/>
+<fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
+</qualifiedTypeNameHistroy>

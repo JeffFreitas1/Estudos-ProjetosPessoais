@@ -1,0 +1,28 @@
+package br.com.jefffreitas.rest;
+
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.hasItem;
+
+import org.hamcrest.Matchers;
+import org.hamcrest.Matchers.*;
+import org.junit.Test;
+
+import io.restassured.RestAssured;
+
+public class AuthTest {
+	
+	@Test
+	public void deveAcessarPokemonApi() {
+		given()
+		    .log().all()
+		.when()
+		    .get("https://pokeapi.co/api/v2/pokemon/1/")
+		.then()
+		    .statusCode(200)
+		    .log().all()
+		    .body("Name", Matchers.is("imposter")
+		
+		;
+	}
+
+}

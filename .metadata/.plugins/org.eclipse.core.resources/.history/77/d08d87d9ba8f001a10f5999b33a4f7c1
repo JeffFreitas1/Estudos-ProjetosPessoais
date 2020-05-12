@@ -1,0 +1,22 @@
+package br.com.jefffreitas.rest;
+
+import static io.restassured.RestAssured.given;
+
+import org.junit.Test;
+
+import io.restassured.RestAssured;
+
+public class HTML {
+	
+	@Test
+	
+	public void deveFazerBuscasComHtml() {
+		given()
+		    .log().all()
+		.when()
+		    .get("http://restapi.wcaquino.me/v2/users")
+		.then()
+		;
+	}
+
+}

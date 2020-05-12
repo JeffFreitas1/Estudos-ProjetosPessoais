@@ -1,0 +1,10 @@
+package br.com.jefffreitas.rest;
+
+public class FileTest {
+	
+	@Test
+	public void deveObrigarEnvioArquivo() {
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+package br.com.jefffreitas.rest;
+
+import static io.restassured.RestAssured.*;
+
+import io.restassured.RestAssured;
+import io.restassured.matcher.RestAssuredMatchers;
+
+public class SchemaTest {
+	
+	public void deveValidarSchema () {
+		given()
+		    .log().all()
+		.when()
+		    .get("http://restapi.wcaquino.me/usersXML")
+		.then()
+		    .log().all()
+		    .statusCode(200)
+		    .body(RestAssuredMatchers.matchesXsdInClasspath("users.xsd"))
+		;
+		
+	}
+
+}
