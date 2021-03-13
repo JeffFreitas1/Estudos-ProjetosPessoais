@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\jefer\git\qa_engineer_test\src\main\java\br\com\comexport\controller\StudentController.java"/>
+			<item value="C:\Users\jefer\OneDrive\Documentos\GitHub\Estudos\BarrigaRest"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -44,12 +46,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="br.com.jefffreitas.cursoAppium"/>
 			<item value="br.com.jefffreitas"/>
 			<item value="br.sp.jefffreitas"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="CursoAppium"/>
+			<item value="TesteItauApi"/>
 			<item value="BarrigaRest"/>
 			<item value="CursoRest"/>
 		</list>
